@@ -1,5 +1,8 @@
 ### hi🤞 Nice way to meet me
-    <a href="https://www.notion.so/Front-end-TIL-f0468b15bf094f9d80617624dbdbcafa" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+   <p> 
+   <a href="https://www.notion.so/Front-end-TIL-f0468b15bf094f9d80617624dbdbcafa" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?
+   style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+   </p>
 
 👋  Hi there! I'm front-end developer skilled in WEB.🚀
 
