@@ -5,7 +5,7 @@
 
 👋  Hi there! I'm front-end developer skilled in WEB.🚀
 
-I enjoy hiking, swimming, dive and surf. ⛰ 🏄
+I enjoy soccer, baseball, game and travel.⚽️ ⚾️
 I hope to develop every beautiful things. ✨
 
 ### 💪 Skills
