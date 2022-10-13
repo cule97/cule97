@@ -1,8 +1,6 @@
 ### hi🤞 Nice way to meet me
    <p> 
-   <a href="https://www.notion.so/Front-end-TIL-f0468b15bf094f9d80617624dbdbcafa" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?
-   style=flat-square&logo=Notion&logoColor=black"/></a>
-     <a href="https://notion.com/cowkite" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+     <a href="https://www.notion.so/Front-end-TIL-f0468b15bf094f9d80617624dbdbcafa" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
    </p>
 
 👋  Hi there! I'm front-end developer skilled in WEB.🚀
