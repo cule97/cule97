@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Tailwind CSS-pink?style=for-the-badge&logo=Sass&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-pink?style=for-the-badge&logo=Tailwind&logoColor=black"/>
 </p>
 
 <h3 align="center">✨ Me ✨</h3>
