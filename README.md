@@ -1,8 +1,3 @@
-### hi🤞 Nice way to meet me
-   <p> 
-     <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-   </p>
-
 
 <h3 align="center"> 👋 안녕하세요!</h3>
 
@@ -27,8 +22,8 @@
 <h3 align="center">✨ Me ✨</h3>
 
 <p align="center">
-  <a href="mailto:nezcoreen@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=nezcoreen@gmail.com"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://hangloose.oopy.io/"><img src="https://img.shields.io/badge/notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black"></a>
+  <a href="mailto:nezcoreen@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=wltjd326@gmail.com"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://scrawny-office-a44.notion.site/Front-end-TIL-f0468b15bf094f9d80617624dbdbcafa"><img src="https://img.shields.io/badge/notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black"></a>
 <p/>
 
 
