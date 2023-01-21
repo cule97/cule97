@@ -1,7 +1,7 @@
 
 <h3 align="center"> 👋 안녕하세요!</h3>
 
-<p align="center"> 프론트엔드 웹 개발자 이상민입니다. 🌱</p>
+<p align="center"> 프론트엔드 웹 개발자 이상민입니다.</p>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 
