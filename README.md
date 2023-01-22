@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/tailwind-06B6D4?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
 
-<h3 align="center">✨ Me ✨</h3>
+<h3 align="center">✨ Me ✨ </h3>
 
 <p align="center">
   <a href="mailto:nezcoreen@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=wltjd326@gmail.com"/></a>&nbsp;&nbsp;&nbsp;
