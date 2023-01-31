@@ -26,6 +26,14 @@
   <a href="https://scrawny-office-a44.notion.site/Front-end-TIL-f0468b15bf094f9d80617624dbdbcafa"><img src="https://img.shields.io/badge/notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black"></a>
 <p/>
 
+<h3 align="center">✨ This week practice project ✨ </h3>
+
+<p align="center">실시간 환율 계산기 (firebase배포)<p/>
+<p align="center">https://sangmin-react-project.firebaseapp.com/<p/>
+
+<p align="center">선수 스탯을 이용한 D3 차트 연습<p/>
+<p align="center">https://github.com/cule97/React-D3-Test<p/>
+
 
 
    
