@@ -3,7 +3,7 @@
 
 <p align="center"> 프론트엔드 웹 개발자 이상민입니다.</p>
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center"> Tech Stack </h3>
 
 <p align="center">Techs that I've used at least once</p>
 
@@ -19,20 +19,12 @@
   <img src="https://img.shields.io/badge/tailwind-06B6D4?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
 
-<h3 align="center">✨ Me ✨ </h3>
+<h3 align="center"> Me  </h3>
 
 <p align="center">
   <a href="mailto:nezcoreen@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=wltjd326@gmail.com"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://scrawny-office-a44.notion.site/Front-end-TIL-f0468b15bf094f9d80617624dbdbcafa"><img src="https://img.shields.io/badge/notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black"></a>
 <p/>
-
-<h3 align="center">✨ This week practice project ✨ </h3>
-
-<p align="center">실시간 환율 계산기 (firebase배포)<p/>
-<p align="center">https://sangmin-react-project.firebaseapp.com/<p/>
-
-<p align="center">선수 스탯을 이용한 D3 차트 연습<p/>
-<p align="center">https://github.com/cule97/React-D3-Test<p/>
 
 
 
